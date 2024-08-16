@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ilyas Khallouki</h1>
-<h3 align="center">A passionate Data and AI engineer from Morocco</h3>
+<h3 align="center">A passionate Data and AI engineering student from Morocco</h3>
 
 - 🌱 I’m currently learning **Machine Learning, Data Analytics**
 
-- 📝 I sometimes write articles about ml [https://medium.com/@ilyaskhallouki/a-beginners-guide-to-linear-regression-with-the-normal-equation-fec0fcb1fca9](https://medium.com/@ilyaskhallouki/a-beginners-guide-to-linear-regression-with-the-normal-equation-fec0fcb1fca9)
+- 📝 I sometimes write articles about MAching Learning [https://medium.com/@ilyaskhallouki/a-beginners-guide-to-linear-regression-with-the-normal-equation-fec0fcb1fca9](https://medium.com/@ilyaskhallouki/a-beginners-guide-to-linear-regression-with-the-normal-equation-fec0fcb1fca9)
 
 - 💬 Ask me about **Python, Java, AI**
 
